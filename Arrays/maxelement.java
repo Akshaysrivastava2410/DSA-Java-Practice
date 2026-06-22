@@ -20,6 +20,6 @@ public class maxelement {
       sc.close();
       
 
-        
+ 
     }
 }
